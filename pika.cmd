@@ -12,7 +12,7 @@ if "%COMMAND%" == "run" (
 ) else if "%COMMAND%" == "format" (
   call npm run prettier
 
-) else if "%COMMAND%" == "format" (
+) else if "%COMMAND%" == "publish" (
   (call npm whoami || call npm login) && call npm publish
 
 ) else (
