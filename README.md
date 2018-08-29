@@ -28,7 +28,6 @@ pika-web-e2e-test --help
 * [Oclif](https://github.com/oclif/oclif)
 * [Headless Chrome Automation tool](https://github.com/graphcool/chromeless)
 * [Chrome Launcher](https://github.com/GoogleChrome/chrome-launcher)
-* [Cheerio](https://github.com/cheeriojs/cheerio)
 
 ### Prerequisites
 The following software must be installed
